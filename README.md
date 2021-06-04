@@ -37,8 +37,8 @@ We also want to help content creators earn royalties, so we intend to implement 
 
 original gov.near.org proposal post: https://gov.near.org/t/video-presentation-vr-platform-for-cultural-content/1983
 
-visual presentation: 
+visual presentation: https://github.com/frnvpr/incubadorapt_vr_platform/blob/main/visual_presentation.md
 
-video presentation: 
+video presentation: https://github.com/frnvpr/incubadorapt_vr_platform/blob/main/video_presentation.md
 
-roadmap: 
+roadmap: https://github.com/frnvpr/incubadorapt_vr_platform/blob/main/roadmap.md
